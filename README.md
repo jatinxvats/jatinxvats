@@ -18,7 +18,7 @@ Estimated the Hubble Constant and age of the universe using Pantheon+SH0ES data.
 ### LSTM Sentiment Analysis Web Application
 Built a deep learning-based sentiment analysis system using Python and Streamlit.
 
-### Orbital Mechanics Mission Planner (In Progress)
+### Orbital Mechanics Mission Planner
 Building a satellite mission planning toolkit with orbital calculations and trajectory visualization.
 
 ## Technologies

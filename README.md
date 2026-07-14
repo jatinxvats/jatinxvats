@@ -5,9 +5,8 @@ Computer Science (AI/ML) student with a strong interest in aerospace engineering
 ## Current Focus
 
 - Aerospace Engineering self-study
-- Orbital Mechanics
-- Physics-based Simulation
 - Machine Learning
+- Physics-based Simulation
 - Scientific Computing
 
 ## Featured Projects

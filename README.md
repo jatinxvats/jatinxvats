@@ -1,4 +1,4 @@
-# Hi, I'm Jatin
+# Hi, I'm Jatin 🚀
 
 Computer Science (AI/ML) student with a strong interest in aerospace engineering and physics.
 

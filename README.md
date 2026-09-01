@@ -23,7 +23,7 @@ A satellite mission planning toolkit with orbital calculations and trajectory vi
 
 ## Technologies
 
-Java • Python • NumPy • Pandas • SciPy • Seaborn • PyTorch • TensorFlow • Scikit-Learn • FastAPI
+Java • Python • NumPy • Pandas • SciPy • Seaborn • PyTorch • TensorFlow • Scikit-Learn
 
 
 <!--

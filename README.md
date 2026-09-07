@@ -10,17 +10,6 @@ Computer Science (AI/ML) student with a strong interest in aerospace engineering
 - Aerospace Engineering
 - Physics
 
-## Featured Projects
-
-### Exoplanet Candidate Prioritization
-A machine learning framework that prioritizes planets by likelihood of being confirmed exoplanets.
-
-### ML First Principles
-Documenting my learning process from classical machine learning to large language models.
-
-### Orbital Mechanics Mission Planner
-A satellite mission planning toolkit with orbital calculations and trajectory visualization.
-
 ## Technologies
 
 Java • Python • NumPy • Pandas • SciPy • Seaborn • PyTorch • TensorFlow • Scikit-Learn

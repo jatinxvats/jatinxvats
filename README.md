@@ -12,7 +12,7 @@ computer science (AI/ML) student with a strong interest in aerospace engineering
 
 ## Technologies
 
-Java • Python • NumPy • Pandas • SciPy • Seaborn • PyTorch • TensorFlow • Scikit-Learn
+Java • Python • NumPy • Pandas • SciPy • Seaborn • PyTorch • TensorFlow • Scikit-Learn • Hugging Face
 
 
 <!--

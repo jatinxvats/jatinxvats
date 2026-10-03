@@ -1,6 +1,6 @@
 # Hi, I'm Jatin 🚀
 
-Computer Science (AI/ML) student with a strong interest in aerospace engineering and physics.
+computer science (AI/ML) student with a strong interest in aerospace engineering and physics.
 
 ## Currently Learning
 
